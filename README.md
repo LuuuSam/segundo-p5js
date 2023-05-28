@@ -1,4 +1,4 @@
-#Segundo proyecto p5js
+# Segundo proyecto p5js
 
 Este trabajo pertenece a Lourdes Sampol.
 
